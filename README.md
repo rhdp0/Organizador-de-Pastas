@@ -1,11 +1,7 @@
 # Organizador de Pastas
 O Organizador de pastas como o nome já diz, visa gerar uma maior organização dos seus arquvivos.
 
-### Antes:
-<img width="802" alt="antes" src="https://user-images.githubusercontent.com/52008438/97477272-2c753180-192e-11eb-91e3-53aa4a186c53.PNG">
-
-### Depois:
-<img width="726" alt="depois" src="https://user-images.githubusercontent.com/52008438/97477364-4d3d8700-192e-11eb-811a-fdab9ed4a93c.PNG">
+<img src="https://user-images.githubusercontent.com/52008438/97477272-2c753180-192e-11eb-91e3-53aa4a186c53.PNG" width="400"/> <img src="https://user-images.githubusercontent.com/52008438/97477364-4d3d8700-192e-11eb-811a-fdab9ed4a93c.PNG" width="500"/>
 
 # O programa segue os seguintes passos:
 - Observa e lista tudo que tem no diretório selecionado;
